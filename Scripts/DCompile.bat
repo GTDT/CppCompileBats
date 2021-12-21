@@ -1,8 +1,5 @@
 @ECHO OFF
 
-rem Clearing the screen.
-rem cls
-
 rem with -Os (optimisation for size) tag.
 gcc .\main.cpp -ggdb -o main.exe
 
